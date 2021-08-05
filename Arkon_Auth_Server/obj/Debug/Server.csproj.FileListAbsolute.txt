@@ -1,0 +1,14 @@
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\bin\Debug\Server.exe.config
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\bin\Debug\Server.exe
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\bin\Debug\Server.pdb
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\bin\Debug\MySql.Data.dll
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\bin\Debug\Renci.SshNet.dll
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.exe.config
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.MainForm.resources
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.exe
+C:\Users\Synful\Documents\Visual Studio 2019\Projects\Arkon_Auth_Server\Arkon_Auth_Server\obj\Debug\Server.pdb

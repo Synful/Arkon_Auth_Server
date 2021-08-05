@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Arkon_Auth_Server\Server.csproj", "{4324EAA6-63D3-469B-927C-6A96CED92CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A422AEF4-ADAB-49C3-A0B1-D5AEC876A3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4324EAA6-63D3-469B-927C-6A96CED92CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4324EAA6-63D3-469B-927C-6A96CED92CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4324EAA6-63D3-469B-927C-6A96CED92CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4324EAA6-63D3-469B-927C-6A96CED92CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A422AEF4-ADAB-49C3-A0B1-D5AEC876A3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A422AEF4-ADAB-49C3-A0B1-D5AEC876A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A422AEF4-ADAB-49C3-A0B1-D5AEC876A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A422AEF4-ADAB-49C3-A0B1-D5AEC876A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3D2ACD-D5F1-4234-80C5-143807911A0E}
+	EndGlobalSection
+EndGlobal
