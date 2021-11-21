@@ -51,8 +51,8 @@ namespace Server {
                     File.WriteAllText("ServerLog.txt", "");
                     serverBTN.Text = "Stop Server";
                     Text = "Server | Running";
-                    serverIP = IPAddress.Parse("192.168.1.8");
-                    serverPort = 10135;
+                    serverIP = IPAddress.Parse("192.168.1.6");
+                    serverPort = 25725;
                     listener_bw.RunWorkerAsync();
                     break;
                 case "Stop Server":

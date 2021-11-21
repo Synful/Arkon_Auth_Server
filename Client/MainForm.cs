@@ -17,7 +17,7 @@ namespace Client {
 
         public MainForm() {
             InitializeComponent();
-            server = new Server(IPAddress.Parse("192.168.1.8"), 666);
+            server = new Server(IPAddress.Parse("192.168.1.6"), 25725);
             server.Connect();
         }
         private void MainForm_FormClosing(object sender, FormClosingEventArgs e) {
