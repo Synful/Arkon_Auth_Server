@@ -20,7 +20,7 @@ namespace Server.ViewModel {
         }
 
         public Database() {
-            con = new MySqlConnection("server=107.180.50.169;database=genisys;uid=synful;pwd=g,kDS4ig=)+S;");
+            con = new MySqlConnection("");
         }
 
         public bool ValidKey(string lic) {
